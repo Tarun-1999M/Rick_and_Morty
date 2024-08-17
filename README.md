@@ -41,3 +41,7 @@ To run this project locally:
    ```bash
    git clone https://huggingface.co/spaces/Tarun-1999M/Rick_and_Morty
    cd Rick_and_Morty
+
+### Key Additions:
+- **Acknowledgments**: Acknowledges the original Rick and Morty bot and Hugging Face for their tools.
+- **License**: States that the project is licensed under the MIT License, a common open-source license that allows others to freely use, modify, and distribute the code.
